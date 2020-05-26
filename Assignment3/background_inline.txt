@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>INLINE CSS</title>
+  </head>
+	<body style="Background-color:black;">
+
+	<h1>
+	 <p style="color: white; text-align:center"> Hello World
+	</p>
+	</h1>
+	</body>
+</html>
